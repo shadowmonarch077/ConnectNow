@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "157871106106",
+    "project_id": "connectnow-9bbbd",
+    "storage_bucket": "connectnow-9bbbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157871106106:android:79541e9ab3d26ebb74ad03",
+        "android_client_info": {
+          "package_name": "com.example.zoom_clone_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157871106106-7v0993b1da27s9u1u727r8kvt9ll3jpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoom_clone_tutorial",
+            "certificate_hash": "a5e7cc86d869c91c1c7acb50d643772d0a4caca1"
+          }
+        },
+        {
+          "client_id": "157871106106-kcvueu2263clkekrapndavlkldm78nvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDS1oxYTekzZZszyXi1yHRI4LECXwbwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157871106106-kcvueu2263clkekrapndavlkldm78nvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
